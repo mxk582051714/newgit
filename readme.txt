@@ -6,3 +6,4 @@ git 管理修改，git tracks changes of files.
 新加的第一行
 新加的第二行
 linux也要好好学
+study "push and pull"
